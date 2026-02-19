@@ -22,7 +22,7 @@
   qual critério não foi atendido. Regras:
   - Ter entre 18 e 65 anos.
   - Pesar mais de 50 kg.
-- [ ] Crie um programa que receba o código de acesso e o nível de permissão 
+- [X] Crie um programa que receba o código de acesso e o nível de permissão 
   e exiba uma mensagem indicando se o acesso foi permitido ou negado, além 
   do motivo, se for o caso. Regras:
   - O código correto é 2023
